@@ -1,7 +1,10 @@
-#Denial Of Service and ddos attack 
-# Author :- •⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ
-# WhatsApp :- 081316577616
-#RECODE ©®
+#Denial Of Service and ddos attack via alinet
+#Dibuat tanggal 21-04-2019
+#Made in indonesian
+#creator 2eus666GH05T/MR.SPOON 
+#team BLACK PHANTOM CYBER
+#contac bpcofficial95@gmail.com
+#NO COPYRIGHT ©® 2019 (ALINET)
 clear
 blue='\033[34;1m'
 green='\033[32;1m'  
@@ -11,20 +14,20 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 clear
-toilet -f standard "•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ" -F gay
+toilet -f standard "ALINeT" -F gay
 echo
 echo $green"==========================================="
-echo $red"DoS AND DDoS ATTACK LAUCH VIA TOOL •⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
+echo $red"DoS AND DDoS ATTACK LAUCH VIA TOOL ALINET"
 echo $green"==========================================="
 echo $red"===    ===    ===    ===   ===    ===   ==="
 echo $white"===    ===    ===    ===   ===    ===   ==="
             echo $red"        ____...------------...____"
             echo $red"   _:-:: /o/ ---------------- \o\_ :-:_" 
-            echo $green" .:     / / •⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ \ \     :."
+            echo $green" .:     / / SC BY 2EUS666GH05T \ \     :."
             echo $red" |=====/o/======================\o\=====|" 
             echo $red" |____/_/________..____..________\_\____|" 
             echo $red" :   _/ \_     :_oβ:__:βo_:     _/ \_   :" 
-            echo $green" \__/_____\####/•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ/####/__\__/"
+            echo $green" \__/_____\####/ALINET V2.4.0/####/__\__/"
             echo $yellow"  |===\!/========================\!/===|"
             echo $red"  |   |=|          .---.         |=|   |" 
             echo $red"  |===|o|=========/     \========|o|===|  " 
@@ -34,15 +37,16 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
             echo $red"  |==== .:.:::.:.====|====.:.:::.:.====|  " 
             echo $red"  |  _\o/   __  {.: __  :.} _   _\o/  _|  " 
             echo $red"  ''''''''''''''''''''''''''''''''''''''  " 
+echo $yellow"BLACK PHANTOM CYBER  USER-AGENT=106 BOT=368"
 echo $green"==========================================="
 echo $white"                  MENU                     "
 echo $green"============================================="
-echo $red"[1].DDOS ATTACK.   #•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
-echo $red"[2].DoS ATTACK.    #081316577616"
-echo $red"[3].BOTNET ATTACK. #•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
-echo $red"[4].EXIT TOOL.     #    Selamat Menggunakan"
+echo $red"[1].DDOS ATTACK.   #ALINET VERSION V.2.4.0"
+echo $red"[2].DoS ATTACK.    #https://alinet63.blogspot.com"
+echo $red"[3].BOTNET ATTACK. #bpcofficial95@gmail.com"
+echo $red"[4].EXIT TOOL.     #    HAPPY ATTACK"
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
+echo $white "╭─"$yellow"ALINET@USER"
 read -p " ╰─> " pil
 
 #DDOS
@@ -59,7 +63,7 @@ echo $yellow"[3].PING OF DEADHT"
 echo $yellow"[4].POF ARMAGEDON LEVEL"
 echo $yellow"[5].LORIS"
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
+echo $white "╭─"$yellow"ALINET@DDOS"
 read -p " ╰─> " ddos
 fi
 
@@ -78,7 +82,7 @@ fi
 if [ $ddos = 3 ] || [ $ddos = 3 ]
 then
 clear
-python2 TheSploit.py
+python2 SPOONDDOS.py
 fi
 
 if [ $ddos = 4 ] || [ $ddos = 4 ]
@@ -110,7 +114,7 @@ echo $yellow"[3].UFOSYN(PC)"
 echo $yellow"[4].XMAS(PC)"
 echo $yellow"[5].ANDROMEDA(TERMUX)"
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
+echo $white "╭─"$yellow"ALINET@DOS"
 read -p " ╰─> " dos
 fi
 
