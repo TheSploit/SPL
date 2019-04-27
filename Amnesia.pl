@@ -16,14 +16,6 @@ print q{
 (|  .-.  ||  |   |  ||  |\    |  |  .--' .-._)   \(|  |_/(|  .-.  |
  |  | |  ||  |   |  ||  | \   |  |  `---.\       / |  |'->|  | |  |
  `--' `--'`--'   `--'`--'  `--'  `------' `-----'  `--'   `--' `--'
-
-k/:sNs/+hmy+/:::/sNh//+ydd/--:+hh
-r  +/ :mMMd `y`   oMo  dM/    ohoNM
-i  ..  oMMs `-  `/mM/  /MMds/`  ./m
-s  `Ny` -m: -d-`/hMM.  `dd/oo`   `hM
-hyssyNdhyyysshM+oymdssyyhmNmysoshNM
-};
- 
 print "\n------------------------------";
 print "\n The IP you want to hit with Amnesia:";
 chop ($host = <stdin>);
