@@ -49,7 +49,7 @@ print """\033[31;1m
 print "\033[32;1m<=======================================>"         
 print "\033[34;1m||========>LON ORBIT LOW CANON<=========||"
 print "\033[32;1m<=======================================>"
-print "RECODE=⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
+print "RECODE=TheSploit"
 print
 ip = raw_input("MASUKAN IP TAGET ===> ")
 port = input("Port       ===> ")
