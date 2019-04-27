@@ -49,7 +49,7 @@ print """
 print "<===============================>"         
 print "||========>DDOS ARMAGEDON<=========||"
 print "<===============================>"
-print "RECODE=⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ"
+print "RECODE=TheSploit"
 print
 ip = raw_input("MASUKAN IP TAGET ===> ")
 port = input("Port       ===> ")
